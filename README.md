@@ -34,23 +34,33 @@
 
 ---
 
-<h2>Currently</h2>
+## About
 
-<h3>Pathtent &nbsp; <img alt="NOW" height="24" src="https://img.shields.io/badge/NOW-f59e0b?style=for-the-badge&labelColor=0B1120&color=f59e0b"></h3>
+Aerospace engineer by training, builder by instinct. Grew up in Busan loving planes — graduated **Busan Science High School (부산과학고, 17기)** still chasing that. Gave up on physics entering KAIST in 2022 because I thought I sucked at it. One year later, realized the passion hadn't gone anywhere and committed — picked **Aerospace Engineering in 2023**.
 
-<sub>**CTO** &nbsp;·&nbsp; *Pre-launch B2B SaaS* &nbsp;·&nbsp; *AI-assisted patent drafting*</sub>
+Campus life ran parallel to the academics. Freshman year on the **Student Council** design and planning team. A year as **VP of Silver Lining**, where we registered it as 정동아리 — nearly the first international-focused student club at KAIST to earn official status. Two years running **ASCEND** as President, the international sports club, which under my leadership became the fastest-growing and largest student club on campus before I stepped down to focus.
 
-Structured patent database on Postgres + Cloudflare R2 after KIPRIS hit its limits. Next.js / FastAPI / Chrome extension.
+Now I build at the intersection of aerospace engineering, ML, and agent infrastructure. Missile guidance one day, token-efficient orchestration the next. The throughline is the same in both: rigorous systems that have to actually work under constraint.
 
-<h3>Airbus Fly Your Ideas &nbsp; <img alt="Phase 2" height="24" src="https://img.shields.io/badge/PHASE%202-38bdf8?style=for-the-badge&labelColor=0B1120&color=38bdf8"></h3>
+---
 
-<sub>*In Vitro Firmware Red-Teaming* &nbsp;·&nbsp; *aerospace supply-chain security* &nbsp;·&nbsp; *Submission end of May 2026*</sub>
+## Currently
 
-Autonomous firmware verification pipeline. Competing for one of three global finalist slots. Mentored by Prof. Yongdae Kim (KAIST SSL).
+### Pathtent
 
-<h3>KAIST Aerospace Engineering</h3>
+<img alt="Co-founder & CTO" src="https://img.shields.io/badge/CO--FOUNDER_%26_CTO-f59e0b?style=for-the-badge&labelColor=0B1120&color=f59e0b"> &nbsp; <sub>*Pre-launch B2B SaaS*</sub>
 
-<sub>*B.S. Undergraduate* &nbsp;·&nbsp; *5th year, on semester leave* &nbsp;·&nbsp; *Class of 2026*</sub>
+Patents without the pain. Pathtent drafts specification documents alongside you and surfaces the closest prior art, replacing KIPRIS-dependent workflows with a purpose-built database.
+
+### Airbus Fly Your Ideas
+
+<img alt="Phase 2" src="https://img.shields.io/badge/PHASE_2-38bdf8?style=for-the-badge&labelColor=0B1120&color=38bdf8"> &nbsp; <sub>*Submission end of May 2026*</sub>
+
+*In Vitro Firmware Red-Teaming* — autonomous firmware verification pipeline for aerospace supply-chain security. Competing for one of three global finalist slots. Mentored by Prof. Yongdae Kim (KAIST SSL).
+
+### KAIST Aerospace Engineering
+
+<img alt="Undergraduate" src="https://img.shields.io/badge/UNDERGRADUATE-64748b?style=for-the-badge&labelColor=0B1120&color=64748b"> &nbsp; <sub>*5th year, on semester leave · Class of 2026*</sub>
 
 Splitting time across aerospace, ML, and agent infrastructure.
 
