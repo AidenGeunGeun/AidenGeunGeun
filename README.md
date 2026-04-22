@@ -36,11 +36,11 @@
 
 ## About
 
-Aerospace engineer by training, builder by instinct. Grew up in Busan loving planes — graduated **Busan Science High School (부산과학고, 17기)** still chasing that. Gave up on physics entering KAIST in 2022 because I thought I sucked at it. One year later, realized the passion hadn't gone anywhere and committed — picked **Aerospace Engineering in 2023**.
+Aerospace engineer from Busan, now based in Daejeon. Graduated **Busan Science High School (부산과학고, 17기)**. Entered KAIST in 2022 and declared **Aerospace Engineering** in 2023.
 
-Campus life ran parallel to the academics. Freshman year on the **Student Council** design and planning team. A year as **VP of Silver Lining**, where we registered it as 정동아리 — nearly the first international-focused student club at KAIST to earn official status. Two years running **ASCEND** as President, the international sports club, which under my leadership became the fastest-growing and largest student club on campus before I stepped down to focus.
+Alongside the degree, I've led student organizations: **Freshman Student Council** (2022, design & planning), **Vice President of Silver Lining** (2023) — registered as 정동아리, nearly the first international-focused student club at KAIST to earn official recognition — and **President of ASCEND** (2024–2025), the international sports club, which became KAIST's fastest-growing and largest student organization during my term.
 
-Now I build at the intersection of aerospace engineering, ML, and agent infrastructure. Missile guidance one day, token-efficient orchestration the next. The throughline is the same in both: rigorous systems that have to actually work under constraint.
+I work across aerospace engineering, ML research, and agent infrastructure. Current focus is on guidance and control, token-efficient agent systems, and the startup.
 
 ---
 
