@@ -34,21 +34,21 @@
 
 ---
 
-## Currently
+<h2>Currently</h2>
 
-### Pathtent &nbsp;<img src="https://img.shields.io/badge/-NOW-f59e0b?style=flat-square&labelColor=0B1120" alt="NOW">
+<h3>Pathtent &nbsp; <img alt="NOW" height="24" src="https://img.shields.io/badge/NOW-f59e0b?style=for-the-badge&labelColor=0B1120&color=f59e0b"></h3>
 
 <sub>**CTO** &nbsp;·&nbsp; *Pre-launch B2B SaaS* &nbsp;·&nbsp; *AI-assisted patent drafting*</sub>
 
 Structured patent database on Postgres + Cloudflare R2 after KIPRIS hit its limits. Next.js / FastAPI / Chrome extension.
 
-### Airbus Fly Your Ideas &nbsp;<img src="https://img.shields.io/badge/-PHASE_2-38bdf8?style=flat-square&labelColor=0B1120" alt="Phase 2">
+<h3>Airbus Fly Your Ideas &nbsp; <img alt="Phase 2" height="24" src="https://img.shields.io/badge/PHASE%202-38bdf8?style=for-the-badge&labelColor=0B1120&color=38bdf8"></h3>
 
 <sub>*In Vitro Firmware Red-Teaming* &nbsp;·&nbsp; *aerospace supply-chain security* &nbsp;·&nbsp; *Submission end of May 2026*</sub>
 
 Autonomous firmware verification pipeline. Competing for one of three global finalist slots. Mentored by Prof. Yongdae Kim (KAIST SSL).
 
-### KAIST Aerospace Engineering
+<h3>KAIST Aerospace Engineering</h3>
 
 <sub>*B.S. Undergraduate* &nbsp;·&nbsp; *5th year, on semester leave* &nbsp;·&nbsp; *Class of 2026*</sub>
 
