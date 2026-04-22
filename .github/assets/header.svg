@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0B1120"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#bg)" rx="8"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.08" stroke="#38bdf8" stroke-width="0.5">
+    <line x1="0" y1="45" x2="900" y2="45"/>
+    <line x1="0" y1="90" x2="900" y2="90"/>
+    <line x1="0" y1="135" x2="900" y2="135"/>
+    <line x1="150" y1="0" x2="150" y2="180"/>
+    <line x1="300" y1="0" x2="300" y2="180"/>
+    <line x1="450" y1="0" x2="450" y2="180"/>
+    <line x1="600" y1="0" x2="600" y2="180"/>
+    <line x1="750" y1="0" x2="750" y2="180"/>
+  </g>
+
+  <!-- Top accent line (animated) -->
+  <rect x="0" y="0" width="900" height="1.5" fill="url(#accent)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner brackets - top left -->
+  <g stroke="#38bdf8" stroke-width="1.5" fill="none" opacity="0.6">
+    <path d="M 20 20 L 20 40 M 20 20 L 40 20"/>
+    <path d="M 880 20 L 880 40 M 880 20 L 860 20"/>
+    <path d="M 20 160 L 20 140 M 20 160 L 40 160"/>
+    <path d="M 880 160 L 880 140 M 880 160 L 860 160"/>
+  </g>
+
+  <!-- Name -->
+  <text x="450" y="95" font-family="JetBrains Mono, SF Mono, Menlo, monospace" font-weight="700" font-size="56" fill="#f1f5f9" text-anchor="middle" letter-spacing="2" filter="url(#glow)">
+    AIDEN KIM
+  </text>
+
+  <!-- Handle -->
+  <text x="450" y="128" font-family="JetBrains Mono, SF Mono, Menlo, monospace" font-weight="400" font-size="14" fill="#38bdf8" text-anchor="middle" letter-spacing="4">
+    @AIDENGEUNGEUN
+  </text>
+
+  <!-- Bottom accent line -->
+  <rect x="350" y="145" width="200" height="1" fill="#38bdf8" opacity="0.4"/>
+</svg>
