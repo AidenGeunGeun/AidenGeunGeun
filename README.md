@@ -98,21 +98,6 @@ Local document-to-markdown OCR for researchers. PDFs, DOCX, XLSX, HWP, images �
   </a>
 </p>
 
-**[exa-cli](https://github.com/AidenGeunGeun/exa-cli)** &nbsp;·&nbsp; Three-tier web research via the Exa Search API. `auto`, `synthesis`, and `deep` tiers for everything from quick fact checks to structured multi-source extraction.
-
-<p align="center">
-  <a href="https://github.com/AidenGeunGeun/exa-cli">
-    <img src="https://img.shields.io/github/stars/AidenGeunGeun/exa-cli?style=for-the-badge&logo=github&logoColor=f1f5f9&labelColor=0B1120&color=1e293b" alt="Stars">
-  </a>
-  <a href="https://github.com/AidenGeunGeun/exa-cli">
-    <img src="https://img.shields.io/github/last-commit/AidenGeunGeun/exa-cli?style=for-the-badge&labelColor=0B1120&color=1e293b" alt="Last commit">
-  </a>
-  <a href="https://github.com/AidenGeunGeun/exa-cli">
-    <img src="https://img.shields.io/github/languages/top/AidenGeunGeun/exa-cli?style=for-the-badge&labelColor=0B1120&color=1e293b" alt="Top language">
-  </a>
-</p>
-
-**[todoist-cli](https://github.com/AidenGeunGeun/todoist-cli)** &nbsp;·&nbsp; JSON-first Todoist CLI for agent task, project, section, and user workflows. Headless automation without the web UI.
 
 <p align="center">
   <a href="https://github.com/AidenGeunGeun/todoist-cli">
