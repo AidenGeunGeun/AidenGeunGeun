@@ -282,6 +282,9 @@ Physics-informed neural networks for guidance and trajectory estimation. Paralle
 
 ## Background
 
+<table>
+<tr><td>
+
 <kbd>B.S. Aerospace Engineering · KAIST · 2021–2026 · 5th year, on semester leave</kbd>
 
 | Year | |
@@ -291,6 +294,9 @@ Physics-informed neural networks for guidance and trajectory estimation. Paralle
 | 2024–2025 | **FDCL, KAIST** — individual study + paid researcher under Prof. Chang Hoon Lee |
 | 2024–2025 | **Undergraduate Research** — PINNs for aerospace applications |
 | **2026** | **Airbus Fly Your Ideas — Phase 2**, competing for finalist |
+
+</td></tr>
+</table>
 
 ---
 
