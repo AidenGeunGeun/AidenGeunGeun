@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/AidenGeunGeun">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1800&color=38bdf8&center=true&width=640&lines=Aerospace+engineering;Token-efficient+agent+infrastructure;Bash+is+%28mostly%29+all+you+need" alt="Tagline">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1800&color=38bdf8&center=true&width=640&lines=Aerospace+engineering;Token-efficient+agent+infrastructure;Bash+is+all+you+need" alt="Tagline">
   </a>
 </p>
 
@@ -24,11 +24,25 @@
 
 ## Currently
 
-**[Pathtent](https://github.com/AidenGeunGeun)** &nbsp;·&nbsp; CTO &nbsp;·&nbsp; *Pre-launch B2B SaaS*
+<table>
+<tr><td>
+
+**Pathtent** &nbsp;·&nbsp; CTO &nbsp;·&nbsp; *Pre-launch B2B SaaS*
+
 AI-assisted patent specification writing and similarity search. Built a structured patent database (Postgres + Cloudflare R2) after KIPRIS proved too limiting. Next.js frontend, FastAPI backend, Chrome extension for inline drafting.
 
+</td></tr>
+</table>
+
+<table>
+<tr><td>
+
 **Airbus Fly Your Ideas** &nbsp;·&nbsp; Phase 2 &nbsp;·&nbsp; *Submission end of May 2026*
+
 *In Vitro Firmware Red-Teaming* — autonomous firmware verification pipeline for aerospace supply-chain security. Competing for one of three global finalist slots. Mentored by Prof. Yongdae Kim (KAIST SSL).
+
+</td></tr>
+</table>
 
 ---
 
@@ -242,13 +256,27 @@ Cooperative guidance law for multi-agent interception. Shared-information polici
 
 ## Research
 
+<table>
+<tr><td>
+
 **KAIST Flight Dynamics and Control Lab (FDCL)** &nbsp;·&nbsp; Prof. Chang Hoon Lee &nbsp;·&nbsp; 2024–2025
+
 One-year individual study and paid research. Collaborated on air-to-air missile **range estimation** — real-time on-board computation of the no-escape zone for HUD rendering. Hit **60 Hz with high fidelity** on compute-constrained cockpit hardware.
 
-*Actively looking for more KAIST lab opportunities at the aerospace / CS intersection.*
+<sub>*Actively looking for more KAIST lab opportunities at the aerospace / CS intersection.*</sub>
+
+</td></tr>
+</table>
+
+<table>
+<tr><td>
 
 **Undergraduate Research — PINNs for Aerospace Applications** &nbsp;·&nbsp; 2024–2025
+
 Physics-informed neural networks for guidance and trajectory estimation. Parallel track to the FDCL work.
+
+</td></tr>
+</table>
 
 ---
 
@@ -273,7 +301,7 @@ Physics-informed neural networks for guidance and trajectory estimation. Paralle
   <img src="https://img.shields.io/badge/-TypeScript-0B1120?style=for-the-badge&logo=typescript&logoColor=38bdf8&labelColor=0B1120" alt="TypeScript">
   <img src="https://img.shields.io/badge/-PyTorch-0B1120?style=for-the-badge&logo=pytorch&logoColor=38bdf8&labelColor=0B1120" alt="PyTorch">
   <img src="https://img.shields.io/badge/-MLX-0B1120?style=for-the-badge&logo=apple&logoColor=38bdf8&labelColor=0B1120" alt="MLX">
-  <img src="https://img.shields.io/badge/-MATLAB-0B1120?style=for-the-badge&logo=mathworks&logoColor=38bdf8&labelColor=0B1120" alt="MATLAB">
+  <img src="https://img.shields.io/badge/-MATLAB-0B1120?style=for-the-badge&labelColor=0B1120" alt="MATLAB">
   <img src="https://img.shields.io/badge/-React-0B1120?style=for-the-badge&logo=react&logoColor=38bdf8&labelColor=0B1120" alt="React">
   <img src="https://img.shields.io/badge/-Next.js-0B1120?style=for-the-badge&logo=nextdotjs&logoColor=38bdf8&labelColor=0B1120" alt="Next.js">
   <img src="https://img.shields.io/badge/-FastAPI-0B1120?style=for-the-badge&logo=fastapi&logoColor=38bdf8&labelColor=0B1120" alt="FastAPI">
