@@ -38,7 +38,7 @@
 
 Aerospace engineer from Busan, now based in Daejeon. Graduated **Busan Science High School (부산과학고, 17기)**. Entered KAIST in 2022 and declared **Aerospace Engineering** in 2023.
 
-Alongside the degree, I've led student organizations: **Freshman Student Council** (2022, design & planning), **Vice President of Silver Lining** (2023) — registered as 정동아리, nearly the first international-focused student club at KAIST to earn official recognition — and **President of ASCEND** (2024–2025), the international sports club, which became KAIST's fastest-growing and largest student organization during my term.
+Alongside the degree, I've led and been part of student organizations at KAIST: **Freshman Student Council** (2022, design & planning), **Vice President of Silver Lining** (2023) — registered as 정동아리, nearly the first international-focused student club at KAIST to earn official recognition — and **President of ASCEND** (2024–2025), the international sports club, which became KAIST's fastest-growing and largest student organization during my term.
 
 I work across aerospace engineering, ML research, and agent infrastructure. Current focus is on guidance and control, token-efficient agent systems, and the startup.
 
