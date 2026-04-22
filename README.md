@@ -39,33 +39,54 @@
 ## Currently
 
 <table>
-<tr><td>
+<tr>
+<td width="140" valign="top">
 
-**Undergraduate** &nbsp;·&nbsp; *KAIST Aerospace Engineering*
+<sub>**STATUS**</sub><br>
+<img src="https://img.shields.io/badge/-ACTIVE-f59e0b?style=flat-square&labelColor=0B1120" alt="Active">
 
-5th year, on semester leave. Splitting time between building, researching, and shipping across aerospace / ML / agent infrastructure.
+</td>
+<td valign="top">
 
-</td></tr>
-</table>
+**Pathtent** &nbsp;·&nbsp; CTO<br>
+<sub>*Pre-launch B2B SaaS · AI-assisted patent drafting*</sub>
 
-<table>
-<tr><td>
+Structured patent database (Postgres + Cloudflare R2) after KIPRIS proved too limiting. Next.js / FastAPI / Chrome extension.
 
-**Pathtent** &nbsp;·&nbsp; CTO &nbsp;·&nbsp; *Pre-launch B2B SaaS*
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-AI-assisted patent specification writing and similarity search. Built a structured patent database (Postgres + Cloudflare R2) after KIPRIS proved too limiting. Next.js frontend, FastAPI backend, Chrome extension for inline drafting.
+<sub>**STATUS**</sub><br>
+<img src="https://img.shields.io/badge/-PHASE_2-38bdf8?style=flat-square&labelColor=0B1120" alt="Phase 2">
 
-</td></tr>
-</table>
+</td>
+<td valign="top">
 
-<table>
-<tr><td>
+**Airbus Fly Your Ideas** &nbsp;·&nbsp; *Submission May 2026*<br>
+<sub>*In Vitro Firmware Red-Teaming · aerospace supply-chain security*</sub>
 
-**Airbus Fly Your Ideas** &nbsp;·&nbsp; Phase 2 &nbsp;·&nbsp; *Submission end of May 2026*
+Competing for one of three global finalist slots. Mentored by Prof. Yongdae Kim (KAIST SSL).
 
-*In Vitro Firmware Red-Teaming* — autonomous firmware verification pipeline for aerospace supply-chain security. Competing for one of three global finalist slots. Mentored by Prof. Yongdae Kim (KAIST SSL).
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-</td></tr>
+<sub>**STATUS**</sub><br>
+<img src="https://img.shields.io/badge/-ENROLLED-64748b?style=flat-square&labelColor=0B1120" alt="Enrolled">
+
+</td>
+<td valign="top">
+
+**KAIST Aerospace Engineering** &nbsp;·&nbsp; *Undergraduate*<br>
+<sub>*5th year, on semester leave · class of 2026*</sub>
+
+Splitting time across aerospace, ML, and agent infrastructure.
+
+</td>
+</tr>
 </table>
 
 ---
@@ -75,68 +96,68 @@ AI-assisted patent specification writing and similarity search. Built a structur
 ### ▸ Agent Infrastructure
 
 <a href="https://github.com/AidenGeunGeun/recall">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=recall&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=recall&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/AidenGeunGeun/transcribe-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=transcribe-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=transcribe-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 <a href="https://github.com/AidenGeunGeun/code-intel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=code-intel&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=code-intel&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/AidenGeunGeun/exa-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=exa-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=exa-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 <a href="https://github.com/AidenGeunGeun/todoist-cli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=todoist-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=todoist-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/AidenGeunGeun/OpencodeOrchestra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=OpencodeOrchestra&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=OpencodeOrchestra&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 <a href="https://github.com/AidenGeunGeun/opencode-context-compress">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=opencode-context-compress&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=opencode-context-compress&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/AidenGeunGeun/the-hive">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=the-hive&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=the-hive&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 ### ▸ Research & Experiments
 
 <a href="https://github.com/AidenGeunGeun/thinking-token">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=thinking-token&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=thinking-token&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 ### ▸ Web Apps
 
 <a href="https://graduatekaist.vercel.app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=GraduateKAIST&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=GraduateKAIST&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 ### ▸ Systems & Exploration
 
 <a href="https://github.com/AidenGeunGeun/blue-pcbang-dropship">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=blue-pcbang-dropship&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=blue-pcbang-dropship&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/AidenGeunGeun/ZoomToText">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=ZoomToText&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=ZoomToText&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 ### ▸ Aerospace
 
 <a href="https://github.com/AidenGeunGeun/PINN_Guidance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=PINN_Guidance&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=PINN_Guidance&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/AidenGeunGeun/hvt-missile-sim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=hvt-missile-sim&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=hvt-missile-sim&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 <a href="https://github.com/AidenGeunGeun/6dofsim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=6dofsim&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=6dofsim&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 <a href="https://github.com/AidenGeunGeun/Coop_guidance">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=Coop_guidance&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&show_owner=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=Coop_guidance&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" />
 </a>
 
 <sub>*Archive: [9M723-Iskander-missile-trajectory](https://github.com/AidenGeunGeun/9M723-Iskander-missile-trajectory) — preserved copy of a deleted repo with solid 6-DOF aeroballistic modeling. Kept for reference, not authored by me.*</sub>
