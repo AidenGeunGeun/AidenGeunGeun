@@ -262,3 +262,4 @@ Local document-to-markdown OCR for researchers. PDFs, DOCX, XLSX, HWP, images â€
 <p align="center">
   <em>Aerospace engineering and AI infrastructure.</em>
 </p>
+
