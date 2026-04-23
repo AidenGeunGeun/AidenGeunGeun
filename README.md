@@ -142,10 +142,10 @@ Physics-informed neural networks for guidance and trajectory estimation. Paralle
 
 | Year | |
 |:---|:---|
-| **2025–** | CTO, **Pathtent** |
+| **2026–** | CTO, **Pathtent** |
 | 2025 | **Hanwha Aerospace Special Award** — ROK Air Force Academy Academic Conference |
-| 2024–2025 | **FDCL, KAIST** — individual study + paid researcher under Prof. Chang Hoon Lee |
-| 2024–2025 | **Undergraduate Research** — PINNs for aerospace applications |
+| 2024–Early 2026 | **FDCL, KAIST** — individual study + paid researcher under Prof. Chang Hoon Lee |
+| 2024–Early 2026 | **Undergraduate Research** — PINNs for aerospace applications |
 | **2026** | **Airbus Fly Your Ideas — Phase 2**, competing for finalist |
 
 </td></tr>
