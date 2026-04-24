@@ -82,6 +82,10 @@ Splitting time across aerospace, ML, and agent infrastructure.
 <a href="https://github.com/AidenGeunGeun/opencode-context-compress"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=opencode-context-compress&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
 <a href="https://github.com/AidenGeunGeun/the-hive"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=the-hive&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
 
+<a href="https://github.com/AidenGeunGeun/agent-tools"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=agent-tools&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+
+<sub>Inside `agent-tools`: [`image-gen`](https://www.npmjs.com/package/@skybluejacket/image-gen), a JSON-in/JSON-out image generation CLI for agents.</sub>
+
 ### ▸ Research & Experiments
 
 <a href="https://github.com/AidenGeunGeun/thinking-token"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=thinking-token&bg_color=0B1120&title_color=f59e0b&text_color=cbd5e1&icon_color=f59e0b&border_color=1e293b&hide_border=true&show_owner=false" /></a>
