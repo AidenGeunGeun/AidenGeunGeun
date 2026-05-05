@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Aiden Kim — Aerospace Engineering · Agent Infrastructure" width="100%">
+</p>
+
 <h1 align="center">Aiden Kim</h1>
 
 <p align="center">
@@ -68,44 +72,179 @@ Splitting time across aerospace, ML, and agent infrastructure.
 
 ## Featured Work
 
-### ▸ Agent Infrastructure
+<p>
+  <img src="./assets/agent-infra-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
+  &nbsp;<strong>Agent Infrastructure</strong>
+</p>
 
-<a href="https://github.com/AidenGeunGeun/recall"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=recall&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
-<a href="https://github.com/AidenGeunGeun/transcribe-cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=transcribe-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/AidenGeunGeun/code-intel"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=code-intel&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
-<a href="https://github.com/AidenGeunGeun/exa-cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=exa-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+**[recall](https://github.com/AidenGeunGeun/recall)**  
+`TypeScript` · Semantic memory for AI agents. Cross-session continuity without bloating context.
 
-<a href="https://github.com/AidenGeunGeun/todoist-cli"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=todoist-cli&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
-<a href="https://github.com/AidenGeunGeun/OpencodeOrchestra"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=OpencodeOrchestra&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+</td>
+<td width="50%">
 
-<a href="https://github.com/AidenGeunGeun/opencode-context-compress"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=opencode-context-compress&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
-<a href="https://github.com/AidenGeunGeun/the-hive"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=the-hive&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+**[transcribe-cli](https://github.com/AidenGeunGeun/transcribe-cli)**  
+`TypeScript` · Local document-to-markdown OCR for PDFs, DOCX, images, and more.
 
-<a href="https://github.com/AidenGeunGeun/image-gen"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=image-gen&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<sub>`image-gen`: [GitHub](https://github.com/AidenGeunGeun/image-gen) · [npm](https://www.npmjs.com/package/@skybluejacket/image-gen) — JSON-in/JSON-out image generation CLI for agents.</sub>
+**[code-intel](https://github.com/AidenGeunGeun/code-intel)**  
+`TypeScript` · Lightweight code intelligence and navigation for agent workflows.
 
-### ▸ Research & Experiments
+</td>
+<td width="50%">
 
-<a href="https://github.com/AidenGeunGeun/thinking-token"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=thinking-token&bg_color=0B1120&title_color=f59e0b&text_color=cbd5e1&icon_color=f59e0b&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+**[exa-cli](https://github.com/AidenGeunGeun/exa-cli)**  
+`TypeScript` · Three-tier web research via the Exa Search API for agents.
 
-### ▸ Web Apps
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<a href="https://graduatekaist.vercel.app"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=GraduateKAIST&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+**[todoist-cli](https://github.com/AidenGeunGeun/todoist-cli)**  
+`TypeScript` · JSON-first Todoist CLI for agent task and project workflows.
 
-### ▸ Systems & Exploration
+</td>
+<td width="50%">
 
-<a href="https://github.com/AidenGeunGeun/blue-pcbang-dropship"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=blue-pcbang-dropship&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
-<a href="https://github.com/AidenGeunGeun/ZoomToText"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=ZoomToText&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+**[OpencodeOrchestra](https://github.com/AidenGeunGeun/OpencodeOrchestra)**  
+`TypeScript` · Multi-layer agent orchestration. PM plans, specialists execute.
 
-### ▸ Aerospace
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/AidenGeunGeun/PINN_Guidance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=PINN_Guidance&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
-<a href="https://github.com/AidenGeunGeun/hvt-missile-sim"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=hvt-missile-sim&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+**[opencode-context-compress](https://github.com/AidenGeunGeun/opencode-context-compress)**  
+`TypeScript` · Manual-first context compression. You own the when.
 
-<a href="https://github.com/AidenGeunGeun/6dofsim"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=6dofsim&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
-<a href="https://github.com/AidenGeunGeun/Coop_guidance"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AidenGeunGeun&repo=Coop_guidance&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b&hide_border=true&show_owner=false" /></a>
+</td>
+<td width="50%">
+
+**[the-hive](https://github.com/AidenGeunGeun/the-hive)**  
+`TypeScript` · Swarm coordination layer for multi-agent task execution.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[image-gen](https://github.com/AidenGeunGeun/image-gen)**  
+`TypeScript` · JSON-in/JSON-out image generation CLI for agents.  
+<sub>[GitHub](https://github.com/AidenGeunGeun/image-gen) · [npm](https://www.npmjs.com/package/@skybluejacket/image-gen)</sub>
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <img src="./assets/research-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
+  &nbsp;<strong>Research & Experiments</strong>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+**[thinking-token](https://github.com/AidenGeunGeun/thinking-token)**  
+`TypeScript` · Token budget reasoning and introspection for LLM agents.
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <img src="./assets/web-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
+  &nbsp;<strong>Web Apps</strong>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+**[GraduateKAIST](https://github.com/AidenGeunGeun/GraduateKAIST)**  
+`TypeScript` · [graduatekaist.vercel.app](https://graduatekaist.vercel.app) — KAIST graduation planning tool.
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <img src="./assets/systems-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
+  &nbsp;<strong>Systems & Exploration</strong>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+**[blue-pcbang-dropship](https://github.com/AidenGeunGeun/blue-pcbang-dropship)**  
+`Python` · Automated dropship workflow system built for a specific market.
+
+</td>
+<td width="50%">
+
+**[ZoomToText](https://github.com/AidenGeunGeun/ZoomToText)**  
+`Python` · Real-time Zoom audio transcription and text extraction pipeline.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p>
+  <img src="./assets/aerospace-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
+  &nbsp;<strong>Aerospace</strong>
+</p>
+
+<table>
+<tr>
+<td width="50%">
+
+**[PINN_Guidance](https://github.com/AidenGeunGeun/PINN_Guidance)**  
+`Python` · Physics-informed neural networks for missile guidance.
+
+</td>
+<td width="50%">
+
+**[hvt-missile-sim](https://github.com/AidenGeunGeun/hvt-missile-sim)**  
+`Python` · High-value target missile engagement simulation.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[6dofsim](https://github.com/AidenGeunGeun/6dofsim)**  
+`MATLAB` · Six-degree-of-freedom flight dynamics simulator.
+
+</td>
+<td width="50%">
+
+**[Coop_guidance](https://github.com/AidenGeunGeun/Coop_guidance)**  
+`MATLAB` · Cooperative guidance law design and analysis.
+
+</td>
+</tr>
+</table>
 
 <sub>*Archive: [9M723-Iskander-missile-trajectory](https://github.com/AidenGeunGeun/9M723-Iskander-missile-trajectory) — preserved copy of a deleted repo with solid 6-DOF aeroballistic modeling. Kept for reference, not authored by me.*</sub>
 
@@ -168,7 +307,6 @@ Physics-informed neural networks for guidance and trajectory estimation. Paralle
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenGeunGeun&layout=compact&hide=html,css&langs_count=8&bg_color=0B1120&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8&border_color=1e293b" alt="Top Languages">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AidenGeunGeun&theme=tokyonight&background=0B1120&stroke=1e293b&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideNums=cbd5e1&sideLabels=cbd5e1&dates=64748b&border=1e293b&hide_border=true" alt="Streak Stats">
 </p>
 
