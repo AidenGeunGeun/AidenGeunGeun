@@ -72,20 +72,17 @@ Splitting time across aerospace, ML, and agent infrastructure.
 
 ## Featured Work
 
-<p>
-  <img src="./assets/agent-infra-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
-  &nbsp;<strong>Agent Infrastructure</strong>
-</p>
+### <img src="./assets/agent-infra-icon.jpg" width="28" height="28" style="vertical-align:middle; border-radius:4px;"> Agent Infrastructure
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[recall](https://github.com/AidenGeunGeun/recall)**  
 `TypeScript` · Semantic memory for AI agents. Cross-session continuity without bloating context.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[transcribe-cli](https://github.com/AidenGeunGeun/transcribe-cli)**  
 `TypeScript` · Local document-to-markdown OCR for PDFs, DOCX, images, and more.
@@ -93,13 +90,13 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[code-intel](https://github.com/AidenGeunGeun/code-intel)**  
 `TypeScript` · Lightweight code intelligence and navigation for agent workflows.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[exa-cli](https://github.com/AidenGeunGeun/exa-cli)**  
 `TypeScript` · Three-tier web research via the Exa Search API for agents.
@@ -107,13 +104,13 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[todoist-cli](https://github.com/AidenGeunGeun/todoist-cli)**  
 `TypeScript` · JSON-first Todoist CLI for agent task and project workflows.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[OpencodeOrchestra](https://github.com/AidenGeunGeun/OpencodeOrchestra)**  
 `TypeScript` · Multi-layer agent orchestration. PM plans, specialists execute.
@@ -121,13 +118,13 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[opencode-context-compress](https://github.com/AidenGeunGeun/opencode-context-compress)**  
 `TypeScript` · Manual-first context compression. You own the when.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[the-hive](https://github.com/AidenGeunGeun/the-hive)**  
 `TypeScript` · Swarm coordination layer for multi-agent task execution.
@@ -135,7 +132,7 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[image-gen](https://github.com/AidenGeunGeun/image-gen)**  
 `TypeScript` · JSON-in/JSON-out image generation CLI for agents.  
@@ -146,16 +143,13 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </tr>
 </table>
 
-<br>
+---
 
-<p>
-  <img src="./assets/research-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
-  &nbsp;<strong>Research & Experiments</strong>
-</p>
+### <img src="./assets/research-icon.jpg" width="28" height="28" style="vertical-align:middle; border-radius:4px;"> Research & Experiments
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[thinking-token](https://github.com/AidenGeunGeun/thinking-token)**  
 `TypeScript` · Token budget reasoning and introspection for LLM agents.
@@ -165,16 +159,13 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </tr>
 </table>
 
-<br>
+---
 
-<p>
-  <img src="./assets/web-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
-  &nbsp;<strong>Web Apps</strong>
-</p>
+### <img src="./assets/web-icon.jpg" width="28" height="28" style="vertical-align:middle; border-radius:4px;"> Web Apps
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[GraduateKAIST](https://github.com/AidenGeunGeun/GraduateKAIST)**  
 `TypeScript` · [graduatekaist.vercel.app](https://graduatekaist.vercel.app) — KAIST graduation planning tool.
@@ -184,22 +175,19 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </tr>
 </table>
 
-<br>
+---
 
-<p>
-  <img src="./assets/systems-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
-  &nbsp;<strong>Systems & Exploration</strong>
-</p>
+### <img src="./assets/systems-icon.jpg" width="28" height="28" style="vertical-align:middle; border-radius:4px;"> Systems & Exploration
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[blue-pcbang-dropship](https://github.com/AidenGeunGeun/blue-pcbang-dropship)**  
 `Python` · Automated dropship workflow system built for a specific market.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[ZoomToText](https://github.com/AidenGeunGeun/ZoomToText)**  
 `Python` · Real-time Zoom audio transcription and text extraction pipeline.
@@ -208,22 +196,19 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </tr>
 </table>
 
-<br>
+---
 
-<p>
-  <img src="./assets/aerospace-icon.jpg" width="24" height="24" align="center" style="border-radius:4px;">
-  &nbsp;<strong>Aerospace</strong>
-</p>
+### <img src="./assets/aerospace-icon.jpg" width="28" height="28" style="vertical-align:middle; border-radius:4px;"> Aerospace
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[PINN_Guidance](https://github.com/AidenGeunGeun/PINN_Guidance)**  
 `Python` · Physics-informed neural networks for missile guidance.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[hvt-missile-sim](https://github.com/AidenGeunGeun/hvt-missile-sim)**  
 `Python` · High-value target missile engagement simulation.
@@ -231,13 +216,13 @@ Splitting time across aerospace, ML, and agent infrastructure.
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[6dofsim](https://github.com/AidenGeunGeun/6dofsim)**  
 `MATLAB` · Six-degree-of-freedom flight dynamics simulator.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[Coop_guidance](https://github.com/AidenGeunGeun/Coop_guidance)**  
 `MATLAB` · Cooperative guidance law design and analysis.
@@ -252,7 +237,7 @@ Splitting time across aerospace, ML, and agent infrastructure.
 
 ## Research
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr><td>
 
 **KAIST Flight Dynamics and Control Lab (FDCL)** &nbsp;·&nbsp; Prof. Chang Hoon Lee &nbsp;·&nbsp; 2024–2025
@@ -264,7 +249,7 @@ One-year individual study and paid research. Collaborated on air-to-air missile 
 </td></tr>
 </table>
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr><td>
 
 **Undergraduate Research — PINNs for Aerospace Applications** &nbsp;·&nbsp; 2024–2025
@@ -278,7 +263,7 @@ Physics-informed neural networks for guidance and trajectory estimation. Paralle
 
 ## Background
 
-<table>
+<table cellpadding="10" cellspacing="0" border="0">
 <tr><td>
 
 <kbd>B.S. Aerospace Engineering · KAIST · 2021–2026 · 5th year, on semester leave</kbd>
