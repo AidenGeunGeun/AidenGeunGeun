@@ -184,12 +184,6 @@ Splitting time across aerospace, ML, and agent infrastructure.
 <tr>
 <td width="50%" valign="top">
 
-**[blue-pcbang-dropship](https://github.com/AidenGeunGeun/blue-pcbang-dropship)**  
-`Python` · Automated dropship workflow system built for a specific market.
-
-</td>
-<td width="50%" valign="top">
-
 **[ZoomToText](https://github.com/AidenGeunGeun/ZoomToText)**  
 `Python` · Real-time Zoom audio transcription and text extraction pipeline.
 
