@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
+  <a href="https://aidengeungeun.github.io"><img src="https://img.shields.io/badge/Website-aidengeungeun.github.io-38bdf8?style=for-the-badge&labelColor=0B1120&color=1e293b" alt="Website"></a>
   <a href="mailto:skybluejacket@kaist.ac.kr"><img src="https://img.shields.io/badge/skybluejacket%40kaist.ac.kr-0B1120?style=for-the-badge&logo=gmail&logoColor=38bdf8&labelColor=0B1120&color=1e293b" alt="Email"></a>
   <a href="https://x.com/VibeCodeAiden"><img src="https://img.shields.io/badge/@VibeCodeAiden-0B1120?style=for-the-badge&logo=x&logoColor=38bdf8&labelColor=0B1120&color=1e293b" alt="X"></a>
   <a href="https://instagram.com/geun._.daeng"><img src="https://img.shields.io/badge/geun.__.daeng-0B1120?style=for-the-badge&logo=instagram&logoColor=38bdf8&labelColor=0B1120&color=1e293b" alt="Instagram"></a>
