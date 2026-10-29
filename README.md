@@ -14,16 +14,18 @@
   <a href="https://x.com/VibeCodeAiden">X</a>
 </p>
 
-I work across ML systems, tools for AI agents, and aerospace guidance and control. I am an Aerospace Engineering undergraduate at KAIST, expected to graduate in February 2028.
+I work on ML systems: sparse Mixture-of-Experts inference and LLM serving on Intel Gaudi and Apple Silicon. I also build tools for AI agents and have a background in aerospace guidance and control. I am an Aerospace Engineering undergraduate at KAIST, expected to graduate in February 2028.
 
 ## Now & recent
 
-- **[KAIST MLAI Lab](https://www.mlai-kaist.com/)** — Undergraduate researcher / intern under Prof. Sung Ju Hwang, working on heterogeneous LLM serving across GPU and Apple Silicon systems.
+- **[KAIST MLAI Lab](https://www.mlai-kaist.com/)** — Undergraduate researcher under Prof. Sung Ju Hwang, working on efficient MoE inference ([arXiv 2610.37386](https://arxiv.org/abs/2610.37386)) and heterogeneous LLM serving.
+- **DeepAuto.ai** (Aug–Sep 2026) — Full-time research engineer on a project basis; independently brought up Kimi K3 serving on Intel Gaudi 2 across 16 HPUs.
 - **Pathtent** — Co-founder & CTO, building a patent drafting and prior-art platform.
-- **Airbus Fly Your Ideas** — Led *In Vitro Firmware Red-Teaming*. We reached Phase 2—top 50 of approximately 400 global teams—and did not advance to the three-team final.
+- **Airbus Fly Your Ideas** — Led *In Vitro Firmware Red-Teaming*. We advanced to the mentored Round 2 from 360+ teams and did not advance to the three-team final.
 
 ## Selected work
 
+- **[calibration-free-moe](https://github.com/AidenGeunGeun/calibration-free-moe)** — Code for *Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data* (vLLM + Triton).
 - **[recall](https://github.com/AidenGeunGeun/recall)** — Semantic memory for AI agents without carrying full session history.
 - **[transcribe-cli](https://github.com/AidenGeunGeun/transcribe-cli)** — Local document-to-Markdown extraction for PDFs, Office files, images, and more.
 - **[code-intel](https://github.com/AidenGeunGeun/code-intel)** — Lightweight code navigation and intelligence for agent workflows.
@@ -35,9 +37,17 @@ I work across ML systems, tools for AI agents, and aerospace guidance and contro
 
 ## Research
 
-- **Heterogeneous LLM serving** · [KAIST MLAI Lab](https://www.mlai-kaist.com/) · 2026—present
+- **Calibration-free MoE activation sparsity** · first author · [arXiv 2610.37386](https://arxiv.org/abs/2610.37386) · 2026
 
-  CUDA prefill → MLX decode disaggregation in SGLang, with current work on serving correctness and end-to-end latency/energy evidence.
+  Keeps 98.1% of full-model accuracy while reading 17.8% of routed-expert weights; MoE blocks run 1.60–1.90× faster than optimized vLLM at batch 1.
+
+- **Kimi K3 on Intel Gaudi 2** · DeepAuto.ai · Aug–Sep 2026
+
+  Brought up a 2.8-trillion-parameter MoE model on Gaudi 2 from scratch across 16 accelerators: 8.7 tok/s single-user decode, 26.6× faster MoE prefill.
+
+- **Heterogeneous LLM serving** · [KAIST MLAI Lab](https://www.mlai-kaist.com/) · 2026
+
+  DGX Spark prefill → Mac Studio MLX decode disaggregation in SGLang: +38.3% aggregate output throughput and −34.8% mean end-to-end latency versus one DGX Spark on Qwen3.6-35B-A3B.
 
 - **Long-context attention behavior** · 2026
 
